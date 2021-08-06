@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Boolean and logical operations/Knights, merchants, and robbers/out/
+/Topics/Boolean and logical operations/Knights, merchants, and robbers/out/production/classes/
+/Topics/Comments/Uncomment a line/out/
+/Topics/Comments/Uncomment a line/out/production/classes/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
